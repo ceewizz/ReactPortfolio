@@ -27,14 +27,14 @@ code {
 
 header {
   padding: 20px 35px;
-  background-color: #D5F2EA;
+  background-color: lightblue;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-image: url("../src/assets/cover/cover.png");
+  background-image: url("../src/assets/cover/cover.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -60,7 +60,7 @@ header h1 {
   font-weight: bold;
   margin: 0;
   font-size: 36px;
-  color: #0E5259;
+  color: darkcyan;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -68,7 +68,7 @@ header h1 {
 
 header a {
   text-decoration: none;
-  color: #0E5259;
+  color: darkcyan;
 }
 
 header nav {
@@ -106,7 +106,7 @@ header nav ul li a:hover {
   text-shadow: none;
 }
 .hero {
-  background-image: url("../src/assets/cover/cover.png");
+  background-image: url("../src/assets/cover/cover.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -122,7 +122,7 @@ header nav ul li a:hover {
   width: 35%;
   text-align: center;
   margin: 3.5%;
-  color: #fff;
+  color: wheat;
   font-size: 18px;
   line-height: 1.2;
 }
@@ -176,15 +176,15 @@ header nav ul li a:hover {
 
 #reach-out {
   /* margin-top: 5px; */
-  background: #75BFB2;
+  background: turquoise;
 }
 
 #reach-out h2 {
-  color: #0E5259;
+  color: darkmagenta;
 }
 
 .contact h2 {
-  color: #F2E3D5;
+  color: peachpuff;
 }
 
 .contact-info {
