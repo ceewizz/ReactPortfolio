@@ -45,6 +45,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ##### Credits
 Made by Chris Huynh
 
+##### Screenshots
+
+![alt text](<Screenshot 2024-03-07 032730.png>) ![alt text](<Screenshot 2024-03-07 032745.png>)
+
 ###### Links
 Github Repo : https://github.com/ceewizz/ReactPortfolio
 Deploy App : https://ceewizz.github.io/ReactPortfolio
