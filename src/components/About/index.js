@@ -1,5 +1,5 @@
 import React from "react";
-import profileImage from "../../assets/img/profile";
+import profileImage from "../../assets/img/profile.jpg";
 function About() {
   return (
     <section id="about-me" className="my-5 intro">
