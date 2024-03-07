@@ -3,8 +3,8 @@ import gameImage from "../../assets/icon/gamebargains.png";
 import passImage from "../../assets/icon/passgen.png";
 import weatherDashImage from "../../assets/icon/Weather_Dashboard.png";
 import codingquizImage from "../../assets/icon/Coding_Quiz.png";
-import readmeImage from "../../assets/icon/readme.png";
-import VideoVaultImage from "../../assets/icon/Video_Vault.png";
+import readmeImage from "../../assets/icon/readmegenerator.png";
+import VideoVaultImage from "../../assets/icon/VideoVault.png";
 import pwatextImage from "../../assets/icon/pwatext.png";
 
 function Portfolio() {
