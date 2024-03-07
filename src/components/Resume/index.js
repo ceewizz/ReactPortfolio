@@ -45,7 +45,7 @@ function Resume() {
         </div>
 
         <div className="article column2">
-          {/* <p><img src="./assets/images/streamline-icon-ai-robot-waiter@48x48.PNG"></p> */}
+          {}
 
           <p className="column-title">Back-End Knowledge</p>
           <p className="column-text">
