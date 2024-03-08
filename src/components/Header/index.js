@@ -22,7 +22,7 @@ function Header(props) {
         <div class="hero-cta">
       
 
-          <h2>What's up</h2>
+          <h2>Hello There!</h2>
           <p>
             Welcome to Chris Huynh's portfolio page built with React. Here are a few projects that I've worked on.
           </p>

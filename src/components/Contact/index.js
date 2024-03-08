@@ -21,7 +21,7 @@ function Contact() {
       setEmail(inputValue);
     } else if (inputType === "userName") {
       setUserName(inputValue);
-    } else {
+    } else if (inputType === "message") {
       setMessage(inputValue);
     }
   };
@@ -52,7 +52,7 @@ function Contact() {
   return (
     <section id="reach-out" className="contact">
       <div className="flex-row">
-        <h2 className="section-title secondary-border">Reach Out</h2>
+        <h2 className="section-title secondary-border">Contact Me</h2>
       </div>
 
       <div className="contact-info">
@@ -63,7 +63,7 @@ function Contact() {
            Santa Ana, CA <br />
             Mobile: <a href="949.414.2130">949.414.2130</a>
             <br />
-            E:{" "}
+            Email: 
             <a href="mailto://ceewizzhuhwin@gmail.com">
             <strong>ceewizzhuhwin@gmail.com</strong>
             </a>
