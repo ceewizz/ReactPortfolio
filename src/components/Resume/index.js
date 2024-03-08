@@ -19,7 +19,7 @@ function Resume() {
                 <BsCloudDownload />
               </a>
               <p>
-              Click on the link above ^ for my Resume.     
+              Click the link above ^ for my Resume.     
               </p>
               
             </div>
