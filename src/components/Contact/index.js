@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 // Check if the email is valid
-import { validateEmail } from "../../utils/helpers/";
+import { validateEmail } from "../../utils/helpers.js";
 
 function Contact() {
 // Variables 
