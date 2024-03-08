@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 // Check if the email is valid
-import { validateEmail } from "../../utils/helpers";
+import { validateEmail } from "../../utils/helpers/";
 
 function Contact() {
 // Variables 
@@ -32,7 +32,7 @@ function Contact() {
 
   // Checking for valid email if not the prompt an error
     if (!validateEmail(email) || !userName) {
-      setErrorMessage("Invalid response");
+      setErrorMessage("Invalid response! Please check your input and try again.");
      
       return;
      
@@ -110,7 +110,7 @@ function Contact() {
               placeholder="Your Message"
             />
             <button type="button" onClick={handleFormSubmit}>
-              Submit
+              Let's Connect!
             </button>
           </form>
         </div>

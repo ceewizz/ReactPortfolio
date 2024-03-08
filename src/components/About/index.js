@@ -18,8 +18,7 @@ function About() {
           </p>
           <p>
           I'm a hard working computer software engineering student at Cal State Fullerton with a great troubleshooting and good interpersonal skills to assist customers with computer problems
-          </p>
-         <p>I'm also a current student at the coding bootcamp at UCI </p>
+          currently I'm completing the full stack coding boot camp at UCI </p>
          </div>
       </div>
     </section>
