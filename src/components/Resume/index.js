@@ -19,7 +19,7 @@ function Resume() {
                 <BsCloudDownload />
               </a>
               <p>
-               Check my Work and Projects I've completed.
+               Work and Projects I've completed.
               </p>
             </div>
           </div>
@@ -28,7 +28,7 @@ function Resume() {
       {/* // Resume */}
       <section id="home-page-body" className="resume-body">
         <div className="article column1">
-          <p className="column-title">Front-End Knowledge</p>
+          <p className="column-title">Front-End Skills Acquired</p>
           <p className="column-text">
             <ul>
               <li className="logo">
@@ -47,7 +47,7 @@ function Resume() {
         <div className="article column2">
           {}
 
-          <p className="column-title">Back-End Knowledge</p>
+          <p className="column-title">Back-End Skills Acquired</p>
           <p className="column-text">
             <ul>
               <li className="logo">
@@ -65,7 +65,7 @@ function Resume() {
         </div>
         <div className="article column3">
           {}
-          <p className="column-title">Performance Knowledge</p>
+          <p className="column-title">Performance Skills Acquired</p>
           <p className="column-text">
             <ul>
               <li className="logo">
