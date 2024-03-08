@@ -27,7 +27,7 @@ code {
 
 header {
   padding: 20px 35px;
-  background-color: lightblue;
+  background-color: lightcyan;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -60,7 +60,7 @@ header h1 {
   font-weight: bold;
   margin: 0;
   font-size: 36px;
-  color: darkcyan;
+  color: teal;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -68,7 +68,7 @@ header h1 {
 
 header a {
   text-decoration: none;
-  color: darkcyan;
+  color: teal;
 }
 
 header nav {
