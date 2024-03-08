@@ -51,7 +51,4 @@ Made by Chris Huynh
 
 ###### Links
 Github Repo : https://github.com/ceewizz/ReactPortfolio
-
-Deploy App :  https://chrisreactportfolio-8c9aa6f3e388.herokuapp.com/
-
-
+Deploy App : https://chrisreactportfolio-8c9aa6f3e388.herokuapp.com/
