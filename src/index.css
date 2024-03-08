@@ -135,8 +135,9 @@ header nav ul li a:hover {
 }
 
 .hero-cta p {
-  font-size: 25px;
-  color: blue;
+  font-size: 30px;
+  font-display: inline-block;
+  color: lime;
 }
 
 .intro p {

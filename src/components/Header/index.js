@@ -24,7 +24,7 @@ function Header(props) {
 
           <h2>Hello There!</h2>
           <p>
-            Welcome to Chris Huynh's portfolio built with React. Here is where I will present some of the work and projects I've completed.
+            <b><i>Welcome to Chris Huynh's portfolio built with React. Here is where I will present some of the work and projects I've completed.</i></b>
           </p>
         </div>
       </section>
