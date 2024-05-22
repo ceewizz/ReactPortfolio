@@ -17,8 +17,9 @@ function About() {
             Hello my name is Chris Huynh. Welcome to my portfolio.
           </p>
           <p>
-          I'm a hard working computer software engineering student at Cal State Fullerton with a great troubleshooting and good interpersonal skills to assist customers with computer problems.
-          Currently I'm completing the full stack coding boot camp at UCI </p>
+          5 + years working in the tech industries. A hard-working Software Engineer with a strong background in marketing and Full Stack Web Developer</p>
+          <p>B.S in Computer Science @CSUF </p>
+          <p>Full Stack Developer @UCI</p>
          </div>
       </div>
     </section>
