@@ -18,7 +18,7 @@ function About() {
           </p>
           <p>
           5 + years working in the tech industries. A hard-working Software Engineer with a strong background in marketing and Full Stack Web Developer</p>
-          <p>B.S in Computer Science @WGU </p>
+          <p>B.S in Computer Science @CSUF </p>
           <p>Full Stack Developer @UCI</p>
          </div>
       </div>
